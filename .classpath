@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk21">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-9.0.87-windows-x64/apache-tomcat-9.0.87/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-9.0.87-windows-x64/apache-tomcat-9.0.87/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-9.0.87-windows-x64/apache-tomcat-9.0.87/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/college/SE2/jar_files/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/college/SE2/jar_files/json-20240303.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

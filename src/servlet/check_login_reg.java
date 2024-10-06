@@ -86,7 +86,7 @@ public class check_login_reg extends HttpServlet {
 						}
 					}else {
 						try {
-							resp.sendRedirect("user_center");
+							resp.sendRedirect("index.jsp");
 						}
 						catch (IOException e) {
 							System.out.println("出错信息如下："+e);
